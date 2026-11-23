@@ -1,0 +1,7 @@
+model,parameters_millions,validation_ap,test_ap
+tfidf_lr,0.059,0.638,0.615
+specter2,110.82,0.688,0.647
+modernbert_base,149.02,0.698,0.699
+scibert,109.92,0.708,0.669
+qwen3_4b,4022.47,0.737,0.718
+litetci,109.92,0.734,0.707

@@ -1,0 +1,4 @@
+model,validation_ap,test_ap,test_auroc
+student_labels_only,0.675,0.649,0.766
+student_permuted_teacher,0.673,0.649,0.791
+litetci,0.734,0.707,0.804

@@ -1,0 +1,7 @@
+model,explicit_statement_auroc,no_match_auroc,no_match_ap,no_match_hits_at_125
+tfidf_lr,0.769,0.735,0.492,65
+specter2,0.863,0.737,0.534,67
+scibert,0.816,0.747,0.561,66
+modernbert_base,0.859,0.755,0.590,72
+litetci,0.866,0.764,0.591,78
+qwen3_4b,0.904,0.770,0.608,80

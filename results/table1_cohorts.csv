@@ -1,0 +1,5 @@
+split,journal_source,first_year,last_year,papers,positive_papers,positive_percent
+training,Cell,1980,2014,2720,473,17.4
+validation,Cell,2015,2017,548,168,30.7
+test,Cell,2018,2021,687,204,29.7
+cross_journal_test,301 other journals,1990,2000,839,104,12.4

@@ -1,0 +1,4 @@
+{
+  "sentence_split": "[.!?]\\s+(?=[A-Z(\\\"“])",
+  "method_statement": "(?:\\bwe\\s+|\\bhere,?\\s+(?:we\\s+)?)(?:(?:have|also|further|now|therefore|thus)\\s+){0,3}(?:develop(?:ed)?|introduc(?:e|ed)|design(?:ed)?|engineer(?:ed)?|establish(?:ed)?|devis(?:e|ed)|creat(?:e|ed)|present(?:ed)?|propos(?:e|ed)|describ(?:e|ed))\\b[^.!?]{0,160}\\b(?:methods?|techniques?|approach(?:es)?|platforms?|tools?|systems?|assays?|protocols?|technolog(?:y|ies)|resources?|bioresources?|atlases|atlas|librar(?:y|ies)|pipelines?|algorithms?|software|models?|reporters?|sensors?|strateg(?:y|ies))\\b"
+}
